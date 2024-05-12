@@ -1,6 +1,8 @@
 # ROV Red Square Detection and Navigation
 
-![Watch the video](./Autonomous_Task.gif)
+<div style="text-align:center">
+  <img src="./Autonomous_Task.gif" alt="Autonomous Task GIF">
+</div>
 
 ## Overview
 This repository contains autonomous software developed for a Remotely Operated Vehicle (ROV) project. The software utilizes image processing techniques to detect 15x15 red squares in the ROV's environment and provides real-time feedback for precise navigation in underwater conditions.
